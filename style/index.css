@@ -1,0 +1,343 @@
+*{
+    list-style-type: none;
+    list-style: none;
+    text-decoration: none !important;
+    
+}
+
+.btn-2{
+    background-color: #B68C5A;
+    color: white;
+    font-weight: 700;
+}
+
+.btn-2:hover{
+    background-color: #695132;
+    color: whitesmoke;
+}
+.ba{
+    background: url('/images/banner.png');
+
+height: 550px;
+position: absolute;
+left: 0;
+right: 0;
+margin: 0 auto;
+}
+.text-algin{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+.text-black {
+    color: black;
+}
+.mac{margin-top: 200px !important;
+    font-family: 'EB Garamond';
+font-style: normal;
+font-weight: 800;
+font-size: 72px;
+line-height: 85px;
+/* or 118% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.btn-3{
+    background-color: #B68C5A;
+    width: 150px;
+    height: 64px;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+margin-left: 18px;
+color: white;
+}
+input{
+    width: 500px;
+    height: 64px;
+    border-radius: 5px;
+    border: none;
+}
+.mb-32{
+    margin-bottom: 32px;
+}
+.mto{
+    margin-top: 120px;
+}
+.text{
+    font-family: 'EB Garamond';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 52px;
+text-align: center;
+height: 52px;
+}
+.card{
+    margin-bottom: 20px;
+}
+.card-img-top{
+   
+width: 71.8px;
+height: 72.34px;
+left: 524px;
+top: 872px;
+}
+.x{
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%)
+}
+.card:hover{
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+transform: translatey(-10px);
+
+}
+
+.card{
+    transition: 0.8s !important;
+    text-align: center;
+
+
+}
+.o{
+color: #695132;
+}
+
+.card-title{
+
+
+font-family: 'EB Garamond';
+font-style: normal;
+font-weight: 800;
+font-size: 32px;
+line-height: 42px;
+}
+.card-text{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+text-align: center;
+
+/* Dark 03 */
+
+color: #707070;
+}
+
+
+.wos{
+width: 100px;
+}
+
+.text-s{
+    font-family: 'EB Garamond';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 52px;
+text-align: center;
+}
+.ps{
+    margin-top: 4px;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+text-align: center;
+
+/* Dark 03 */
+
+color: #707070;
+}
+
+.accordion-button{
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 31px;
+    text-align: center;
+    
+    /* Dark 02 */
+    
+    color: #414040; 
+}
+#accordionExample p{
+    font-family: 'EB Garamond';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 31px;
+    text-align: center;
+}
+#accordionExample h3{
+    font-family: 'EB Garamond';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 31px;
+text-align: center;
+
+/* Dark 02 */
+
+color: #414040;
+}
+.oxo{
+    width: 285px;
+height: 285px;
+border: 1px solid ;
+
+background-color: #F3F3F3;
+}
+
+.oxo p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    
+    text-align: center;
+    
+    /* Dark 03 */
+    
+    color: #707070;
+}
+.oxo i{
+color: rgb(90, 43, 43) !important;
+}
+
+.contact i{
+    margin-top: 100px !important;
+}
+.io input{
+
+width: 570px;
+height: 72px;
+
+
+/* Dark 07 */
+
+background: #F3F3F3;
+border-radius: 8px;
+}
+.btn-5{
+    margin-top: 22px;
+    width: 570px;
+height: 72px;
+background: #B68C5A;
+border-radius: 8px;
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+}
+
+.logo{    
+    
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+margin-left: 70px;
+
+/* or 162% */
+
+
+/* Dark 05 */
+
+color: #CFCFCF;
+}
+.fb{
+    background: #111111;
+    
+    height: 506px;
+}
+
+.l{
+    margin-left: 30px;
+}
+footer h5{
+    width: 137px;
+height: 31px;
+
+
+font-family: 'EB Garamond';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 31px;
+
+color: #FFFFFF;
+}
+
+footer p{
+    width: 217px;
+height: 78px;
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+/* Dark 05 */
+
+color: #CFCFCF;
+}
+.inputser{
+    width: 224px;
+    height: 72px;
+
+    background: #FFFFFF;
+   border-radius: 0px;
+
+
+}
+footer{
+    overflow-x: hidden;
+height:auto !important;
+
+
+
+
+}
+
+.btn-10{
+    width: 72px;
+height: 72px;
+background-color: #B68C5A;
+padding: 30px;
+text-align: center;
+justify-content: center;
+border-radius: 0px;
+}
+.m{
+    margin-top: 50px;
+}
